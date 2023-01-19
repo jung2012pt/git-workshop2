@@ -6,7 +6,10 @@
 	display: flex;
 	gap: 50px;
 }
-
+.info {
+	width: 200px;
+}
 img.profile {
 	border-radius: 50%;
 }
+
